@@ -1,0 +1,104 @@
+
+    nav {
+        background-color: #03A9F4;
+    }
+
+    nav .nav-wrapper {
+        border-top: 12px solid #0288D1;
+    }
+
+    body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    }
+
+    main {
+        flex: 1 0 auto;
+    }
+        
+    .page-footer{
+        background-color:#03A9F4;
+    }
+
+    .footer-copyright{
+        background-color: #0288D1!important;
+    }
+
+    .mi_logo {
+        width: 160px;
+    }
+
+    .imagen_perfil{
+    width: 250px;
+    border-radius: 50%;
+    }
+    .nombre{
+    color: white;
+    margin-top: 10%
+    }
+    .parallax_custom_color{
+    background:#4CAF50;
+    }
+    .imagen_parallax{
+    opacity: 0.8!important;
+    }
+    .elementos_centrados{
+    text-align: center;
+    }
+
+    .imagen_conoceme {
+        width: 530px;
+        border:rgb(0, 140, 255) dashed 5px;
+        padding: 10px;
+    }
+    
+    .tam_atletismo {
+        width: 400px;
+    }
+
+    .tam_secundaria {
+        width: 400px;
+    }
+
+    .tam_primaria {
+        width: 400px;
+    }
+
+    .tam_curso1 {
+        width: 550px;
+    }
+
+    .tam_curso2 {
+        width: 250px;
+    }
+
+    .letra-grande {
+        font-size: 40px;
+        color: rgb(0, 0, 0);
+    }
+
+    .letra_grande {
+        font-size: 25px;
+        color: rgb(0, 0, 0);
+    }
+
+    .fab {
+        font-size: 70px;
+    }
+
+    .fa-instagram {
+        color: rgb(255, 0, 221);
+    }
+
+    .fa-pinterest-p {
+        color: rgb(255, 51, 51);
+    }
+
+    .fa-whatsapp-square {
+        color: rgb(81, 255, 0);
+    }
+
+
+
+ 
